@@ -44,5 +44,6 @@ I work on building secure, scalable systems and applying research ideas to solve
 
 ---
 
-## ⚡ Fun Fact
-I believe in learning by building, researching deeply, and sharing knowledge with others.
+⚡ Philosophy
+
+"Security is not a feature, it's a foundation. Build systems that are observable, resilient, and trustworthy."
